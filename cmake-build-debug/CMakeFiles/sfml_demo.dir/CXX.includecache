@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/usr/local/google/home/mhorowitzgelb/ClionProjects/sfml_demo/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+string.h
+/usr/local/google/home/mhorowitzgelb/ClionProjects/sfml_demo/string.h
+algorithm
+-
+

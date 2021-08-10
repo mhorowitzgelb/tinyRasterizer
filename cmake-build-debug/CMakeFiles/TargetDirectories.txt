@@ -1,0 +1,3 @@
+/usr/local/google/home/mhorowitzgelb/ClionProjects/sfml_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/usr/local/google/home/mhorowitzgelb/ClionProjects/sfml_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/usr/local/google/home/mhorowitzgelb/ClionProjects/sfml_demo/cmake-build-debug/CMakeFiles/sfml_demo.dir
